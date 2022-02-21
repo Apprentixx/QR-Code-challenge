@@ -1,0 +1,54 @@
+body {
+  position: relative;
+  width: 1440px;
+  height: 800px;
+  background-color:#D5E1EF;
+}
+
+.container {
+  position: absolute;
+  width: 320px;
+  height: 497px;
+  top: 152px;
+  left: 740px;
+  box-shadow: 0 25px 25px rgba(0, 0, 0, 0.0476518);
+  border-radius: 20px;
+  background-color: #FFFFFF;
+}
+
+.Oval {
+  position: absolute;
+  width: 288px;
+  height: 288px;
+  left: 16px;
+  top: 17px;
+  background-color: #2C7DFA;
+  border-radius: 10px;
+}
+
+.QRImage {
+  position: absolute;
+  width: 180px;
+  height: 180px;
+  left: 56px;
+  top: 24px;
+}
+
+.Group_2 {
+  position: absolute;
+  width: 288px;
+  height: 129px;
+  left: 27px;
+  top: 300px;
+}
+
+.heading {
+  font-weight: 700;
+  font-family: Outfit;
+}
+
+.para {
+  font-size: 15px;
+  font-family: Outfit;
+  font-weight: 400;
+}
